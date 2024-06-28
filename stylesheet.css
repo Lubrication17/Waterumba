@@ -1,0 +1,17 @@
+p {
+    Background-color:'Light_blue';
+    font-family: 'Times New Roman';
+    color: black;
+}
+
+.first-p{
+    font-size: 30px;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+body{
+    background-image: url("https://i.etsystatic.com/28921914/r/il/9f5445/3632813664/il_570xN.3632813664_r9iq.jpg")
+}
